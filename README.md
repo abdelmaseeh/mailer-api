@@ -13,6 +13,8 @@ email=test@example.com to request body.
 * **email exist :)** if email exist 
 * **email does not exist as an SMTP domain** if not exist 
 
-### used api
-I use [mailboxlayer](https://mailboxlayer.com) api 
+### used Gems and APIs 
+* I use [mailboxlayer](https://mailboxlayer.com) as a 3rd party api
+* I use `apipie-rails` for the sake of API documentation
+
 
